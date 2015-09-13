@@ -1,7 +1,7 @@
 package controllers
 
 import "github.com/revel/revel"
-import _ "github.com/go-sql-driver/mysql"
+import _ "github.com/mattn/go-sqlite3"
 
 func init() {
 	revel.OnAppStart(InitDB)

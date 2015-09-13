@@ -1,9 +1,21 @@
+# SYS
+.DS_Store
+
+# REVEL
 test-results/
 tmp/
 routes/
+
+# OTHER
 *.mwb
 *.bak
 *.pdf
 .gitignore
 *.csv
 *.sublime*
+
+# NODE MOD
+node_modules
+
+# BOWER
+public/lib
