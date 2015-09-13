@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"myapp/app/models"
+	"reweb/app/models"
 
 	"github.com/revel/revel"
 )

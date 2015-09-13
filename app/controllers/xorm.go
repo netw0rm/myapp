@@ -3,10 +3,10 @@ package controllers
 import (
 	"database/sql"
 	"log"
-	"myapp/app"
-	"myapp/app/models/entity"
-	"myapp/app/utils"
 	"regexp"
+	"reweb/app"
+	"reweb/app/models/entity"
+	"reweb/app/utils"
 
 	"github.com/go-xorm/core"
 	"github.com/go-xorm/xorm"

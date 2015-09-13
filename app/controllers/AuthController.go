@@ -3,8 +3,8 @@ package controllers
 import (
 	"fmt"
 	"log"
-	"myapp/app"
-	"myapp/app/controllers/api"
+	"reweb/app"
+	"reweb/app/controllers/api"
 
 	"github.com/dchest/captcha"
 	"github.com/revel/revel"

@@ -13,6 +13,7 @@ routes/
 .gitignore
 *.csv
 *.sublime*
+*.db
 
 # NODE MOD
 node_modules

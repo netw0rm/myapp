@@ -7,8 +7,8 @@ import (
 )
 
 import (
-	"myapp/app"
-	"myapp/app/models"
+	"reweb/app"
+	"reweb/app/models"
 )
 
 type App struct {

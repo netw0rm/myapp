@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"myapp/app/models"
-	"myapp/app/models/entity"
+	"reweb/app/models"
+	"reweb/app/models/entity"
 	"strings"
 
 	"github.com/revel/revel"
